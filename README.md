@@ -1,2 +1,5 @@
-# Educational-projects
-Repository of projects realized by me
+# Educational projects
+The repository of projects and problems that have been realized by me or team
+
+## Skoltech courses:
+* Scientific computing 
